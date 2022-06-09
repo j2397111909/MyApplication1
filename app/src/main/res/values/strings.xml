@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="xingming">姓名</string>
+    <string name="xingbie">性别</string>
+    <string name="nianling">年龄</string>
+    <string name="xuehao">学号</string>
+    <string name="zhuanye">专业</string>
+    <string name="banji">班级</string>
+    <string name="text"> </string>
+    <string name="tijiao">提交</string>
+    <string name="qingchu">清除</string>
+</resources>
